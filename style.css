@@ -80,3 +80,14 @@ button{
 button:hover{
     background-color: #7526db;
 }
+
+.importPhoto{
+    display: block;
+    margin: 0  auto;
+    border: 2px solid slategray;
+    box-shadow: 0 4px 8px rgba(1, 1, 12, 0.651);
+    border-radius: 500%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
